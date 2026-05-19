@@ -1,3 +1,4 @@
+[Business Problem Document](https://github.com/Prateekgupta08/Financial_Sales_Analysis_Reports/blob/main/Financial_Sales_Business_Use_Case.docx)
 # 📊 Financial Sales Analysis Report — Power BI
 
 > **An end-to-end interactive financial dashboard built with Power BI, powered by DAX measures and multi-dimensional sales data.**
@@ -104,12 +105,10 @@ Financial_Sales_Analysis_Report_Power_BI.pbix
 
 ---
 
-## 🙋 Important Links for Business Use Case
-
-https://github.com/Prateekgupta-08/Financial_Sales_Analysis_Reports/blob/main/Financial_Sales_Business_Use_Case.docx
-
-https://github.com/Prateekgupta-08/Financial_Sales_Analysis_Reports/blob/main/Financial_Sales_Report.pdf
-
-https://github.com/Prateekgupta-08/Financial_Sales_Analysis_Reports/blob/main/Screenshot%202026-05-16%20071726.png
-
 > 📬 *Feel free to connect or reach out if you'd like to discuss this project or explore collaboration opportunities!
+- Prateek Gupta
+- Email : prateekgupta545@gmail.com
+- Phone : +91-8074780272
+
+## Dasboard Images
+<img width="601" height="336" alt="Screenshot 2026-05-20 021543" src="https://github.com/user-attachments/assets/4131fa47-f2e8-4c3c-9911-c25cf316a14e" /> <img width="601" height="338" alt="image" src="https://github.com/user-attachments/assets/ea133048-1095-43d4-a6d7-07abebf798a2" />
